@@ -1,0 +1,15 @@
+[submodule "org.eclipse.actf.ai"]
+	path = org.eclipse.actf.ai
+	url = git://git.eclipse.org/gitroot/actf/org.eclipse.actf.ai.git
+[submodule "org.eclipse.actf.common"]
+	path = org.eclipse.actf.common
+	url = git://git.eclipse.org/gitroot/actf/org.eclipse.actf.common.git
+[submodule "org.eclipse.actf.examples"]
+	path = org.eclipse.actf.examples
+	url = git://git.eclipse.org/gitroot/actf/org.eclipse.actf.examples.git
+[submodule "org.eclipse.actf.visualization"]
+	path = org.eclipse.actf.visualization
+	url = git://git.eclipse.org/gitroot/actf/org.eclipse.actf.visualization.git
+[submodule "org.eclipse.actf.visualization.releng"]
+	path = org.eclipse.actf.visualization.releng
+	url = git://git.eclipse.org/gitroot/actf/org.eclipse.actf.visualization.releng.git
