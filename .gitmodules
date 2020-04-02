@@ -13,3 +13,6 @@
 [submodule "org.eclipse.actf.visualization.releng"]
 	path = org.eclipse.actf.visualization.releng
 	url = git://git.eclipse.org/gitroot/actf/org.eclipse.actf.visualization.releng.git
+[submodule "pref-shimane-cms"]
+	path = pref-shimane-cms
+	url = https://github.com/NaCl-Ltd/pref-shimane-cms.git
